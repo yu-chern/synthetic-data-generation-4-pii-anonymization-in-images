@@ -2,8 +2,8 @@
 * [Project Report Slides](https://docs.google.com/presentation/d/1FgMGslRymsfXy86kucmnOzR5UuAhNtgn/edit?usp=sharing&ouid=104314772114472744003&rtpof=true&sd=true)
 * 
 ## Repository Introduction
-* This is a project aims for generating synthetic human body images to boost the performance of human body segmentation.
-* The code is `private` and will currently not be published due to confidentiality agreement.
+* This is a project aims for generating labeled synthetic human body images to boost the performance of human body segmentation.
+* The code is `private` and will currently not be published due to confidentiality agreement with BMW.
 
 ## Personal Identifiable Information(PII) Anonymization in Images
 We train a human body segmentation model on the training dataset to achive PII Anonymization in images as the following pipeline
